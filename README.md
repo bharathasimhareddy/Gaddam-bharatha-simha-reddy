@@ -1,2 +1,2 @@
-# Gaddam-bharatha-simha-reddy
+# Gaddam-bharatha_simha_reddy
 this is my first  Git Repository.
